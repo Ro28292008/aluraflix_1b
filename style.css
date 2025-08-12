@@ -1,0 +1,12 @@
+body{
+background-color: black;
+color:blueviolet;
+
+
+
+}
+section{
+    background-color: black;
+    padding-block:80px;
+    padding-bottom:80px;
+    display:flex;
