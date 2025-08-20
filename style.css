@@ -1,12 +1,23 @@
 body{
-background-color: black;
-color:blueviolet;
+background-color: rgb(255, 157, 0);
+color:rgb(43, 70, 226);
 
 
 
 }
 section{
-    background-color: black;
+    background-color: aqua;
     padding-block:80px;
     padding-bottom:80px;
     display:flex;
+    justify-content: center;
+}
+.chamada-texto{
+margin-right: 40px;
+}
+img{
+.categoria-videos
+display: flex;
+overflow-x: auto;
+gap: 10px;    
+}
